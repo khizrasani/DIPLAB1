@@ -1,0 +1,1 @@
+The assigned AOI was Larkana-sindh, the data was retrived from alaska satallite facility. here is the cloud drive link for the data used in the lab: https://drive.google.com/drive/folders/1408VXk3ujFVrdPlbo9kXAGS6B49nNhTk?usp=sharing
